@@ -1,8 +1,5 @@
 Name: Christian Sangle
 Date: Aug 18 2015
-Company: IndexExchange
-Application: Software Engineer Level 1 Test
-
 
 IMPORTANT!
 
