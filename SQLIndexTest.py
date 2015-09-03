@@ -1,7 +1,6 @@
 """
 Name: Christian Sangle
 Date: Aug 18 2015
-Company: IndexExchange
 Notes: Does the parsing and will
 print out the 50 of the domains with the highest precentage growth
 """
