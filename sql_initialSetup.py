@@ -1,7 +1,6 @@
 """
 Name: Christian Sangle
 Date: Aug 18 2015
-Company: IndexExchange
 Notes: Creates the initial database and populates it with data.
 """
 import mysql.connector
